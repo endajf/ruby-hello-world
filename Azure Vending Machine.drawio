@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T04:48:24.210Z" agent="5.0 (Windows)" etag="Cqcys7UUvjowLyeK7uoS" version="13.8.8" type="github"><diagram id="AANyPT6bGhwmdgy3tdTZ" name="Page-1">zVfbjpswEP0aHrsCG0j6mFtbVZt2pai720cHO+AWMDImIf362sEOOJBLpW0bKQ+ew8zYc47Hdhw4y+qPHBXJkmGSOsDFtQPnDgCeD4Cjfi7eN8gohA0Qc4q1Uwus6C+iQVejFcWktBwFY6mghQ1GLM9JJCwMcc52ttuGpfasBYpJD1hFKO2jLxSLpEHHgdvinwiNEzOz5+ovGTLOGigThNmuA8GFA2ecMdGMsnpGUkWe4aWJ+3Dm63FhnOTilgD365cCzB+fPb/yP6/Hk2/v6+qdzrJFaaUL1osVe8PALqGCrAoUKXsnVXbgNBFZKi1PDlFZNLxvaE3kVFOdkXBB6rNL9Y4EyJ1DWEYE30sXHeCHmjO9aXyzG3atBB7UWNKl34BIyx4fc7fMyIEm5w+IAgNEhamcdorpVg5jNXwmOaZ5bL7IiTofB/yXKEpoTm72f2H8Z3lQ4kzEHUjn29J5oC/deEC58d8SDt4i3BLlspEzVeOtWjxxhg285qeO9ycMBLYwwP/Pwox6rBAsj15tMi4SFrMcpYsWnXJW5VgxMnel1fo8MlZo7n4QIfb6HkGVYDazpKbitTP+rlI9BNqa1zrzwdgbI5flvnaNTpQy27CDZeKa+lRRlyWTHLCKR+QCV76++RCPibjgB4a3ACcpEnRrr+PNBfWHOs0BsJ4Md1BZrcuI00JQlpcPSqsHsdkiXp7twU6ydniyiewtcqXR3qCvPHD9wPNG/7Kxgru804Pwzs6f8DpN8jqfqDektKIUlSWNhrbP9Q7vk9IpOhgo2mA3N66e4YlRdYUdL2P3zDvKpGgOHh3VfTueJgrsRDA8SdScTL1EB2GOZQ9pJc32Cdy4t38k4OI3</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-02T05:05:54.888Z" agent="5.0 (Windows)" etag="FWapWJQOWPFwo2q5RD59" version="13.8.8" type="github">
+  <diagram id="AANyPT6bGhwmdgy3tdTZ" name="Page-1">
+    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="680" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="0ONp2DLV14u4Jb8AU9xu-1" value="&lt;div&gt;Cloudshell&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0ONp2DLV14u4Jb8AU9xu-2" value="&lt;div&gt;Vending&lt;/div&gt;&lt;div&gt;Machine&lt;/div&gt;&lt;div&gt;Workspace&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0ONp2DLV14u4Jb8AU9xu-3" value="&lt;div&gt;Management&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MG&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="440" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0ONp2DLV14u4Jb8AU9xu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0ONp2DLV14u4Jb8AU9xu-4" target="0ONp2DLV14u4Jb8AU9xu-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ONp2DLV14u4Jb8AU9xu-4" value="&#xa;&lt;div&gt;subscriptions.auto.tfvars&lt;/div&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="120" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0ONp2DLV14u4Jb8AU9xu-5" value="&lt;div&gt;Security&lt;/div&gt;&lt;div&gt;Subscription&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="610" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0ONp2DLV14u4Jb8AU9xu-6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="0ONp2DLV14u4Jb8AU9xu-3" source="0ONp2DLV14u4Jb8AU9xu-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="480" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-2" value="&lt;div&gt;Non-prod Transit&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-3" value="Prod Netwatcher" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-4" value="Prod Security" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-5" value="&lt;div&gt;Shared Services&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-6" value="&lt;div&gt;Prod Shared&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-7" value="&lt;div&gt;Prod Transit&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-8" value="&lt;div&gt;Prod Logs&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-9" value="&lt;div&gt;Prod Automation&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-10" value="Prod Security" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-11" value="Prod Netwatcher" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-13" value="&lt;div&gt;Management Prod Subscription&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="385" y="450" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-15" value="Security Subscription" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aP7lQ5Zf4fHE2E8MXHQa-17" value="Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
